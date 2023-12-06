@@ -94,8 +94,6 @@ function NumResults({ movies }) {
 //------------------------
 
 
-
-
 function Box({ children }) {
   const [isOpen, setIsOpen] = useState(true);
 
